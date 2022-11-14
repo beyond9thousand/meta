@@ -20,10 +20,6 @@ footer:
 cache:
   strategy: query
 
-edit:
-  repo: "https://github.com/beyond9thousand/techsupport"
-  label: Edit on Github
-
 editor:
   enabled: false
 
