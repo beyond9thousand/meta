@@ -1,6 +1,6 @@
 <!-- <base target="_blank" rel="noopener"> -->
 
-# tech-support
+# beyond's refuge camp
 
 - [Pre-requisites](#pre-requisites)
   - [Convert base64 code](#convert-base64-code)
@@ -23,8 +23,11 @@ List of subjects you should gloss over before surfing through the contents of th
 
 ### Convert base64 code
 
++++ Encode
 - [base64encode](https://www.base64decode.org/)
++++ Decode
 - [base64decode](https://www.base64decode.org/)
++++
 
 ## Privacy oriented tools
 
@@ -59,6 +62,10 @@ Listed in decreasing order of preference based on privacy policy and performance
   - [Droid-ify](https://github.com/Iamlooker/Droid-ify)
 
 ### Modded android apps
+
+!!!
+Refer to [base64 decode guide](#convert-base64-code)
+!!!
 
 ```
 aHR0cHM6Ly9hcGtzYXBwcy5ub3Rpb24uc2l0ZS9hcGtzYXBwcy8wOTZlZjM4ZjQ1MjM0MmJhOTliNGUxNTA5YTQ0OTcyOT92PTk5NzAzNjBiNDQzNjQzNzg5YzMzM2JkMmM3MTgwMDA5
