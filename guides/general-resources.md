@@ -12,7 +12,7 @@ icon: note
 ### Modded android apps
 
 !!!
-Refer to [base64 decode guide](/guides/getting-started/#converting-code-blocks)
+Refer to [converting code blocks](/guides/getting-started/#converting-code-blocks)
 !!!
 
 ```
