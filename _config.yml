@@ -2,6 +2,11 @@ plugins:
   - jekyll-relative-links
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 # remote_theme: pages-themes/hacker@v0.2.0
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: dark
@@ -17,3 +22,21 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+author:
+  name   : "First Lastname"
+  # avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
