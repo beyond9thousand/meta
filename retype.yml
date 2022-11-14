@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: https://beyond9thousand.github.io/techsupport
+url: https://beyond9thousand.github.io/meta
 branding:
   title: beyond9thousand
   label: 1.0
@@ -13,6 +13,10 @@ links:
 - text: Portfolio
   link: https://beyond9thousand.vercel.app/
   target: blank
+- text: Github
+  link: https://github.com/beyond9thousand/meta
+  target: blank
+  icon: "mark-github"
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
