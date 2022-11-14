@@ -1,6 +1,6 @@
 <!-- <base target="_blank" rel="noopener"> -->
 
-# beyond's refuge camp
+# Tech Support
 
 - [Pre-requisites](#pre-requisites)
   - [Convert base64 code](#convert-base64-code)
@@ -24,10 +24,11 @@ List of subjects you should gloss over before surfing through the contents of th
 ### Convert base64 code
 
 +++ Encode
+
 - [base64encode](https://www.base64decode.org/)
-+++ Decode
+  +++ Decode
 - [base64decode](https://www.base64decode.org/)
-+++
+  +++
 
 ## Privacy oriented tools
 
