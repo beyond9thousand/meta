@@ -1,6 +1,8 @@
-<base target="_blank" rel="noopener">
+<!-- <base target="_blank" rel="noopener"> -->
 
 # tech-support
+
+[pre-requisites](#pre-requisites)
 
 ## Pre-requisites
 
