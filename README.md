@@ -2,7 +2,20 @@
 
 # tech-support
 
-[pre-requisites](#pre-requisites)
+- [Pre-requisites](#pre-requisites)
+  - [Convert base64 code](#convert-base64-code)
+- [Privacy oriented tools](#privacy-oriented-tools)
+  - [Two-factor authentication apps](#two-factor-authentication-apps)
+  - [Temporary email services](#temporary-email-services)
+  - [Open-source alternative search](#open-source-alternative-search)
+  - [Search Engines](#search-engines)
+- [General resource clumps](#general-resource-clumps)
+  - [Open-source android apps](#open-source-android-apps)
+  - [Modded android apps](#modded-android-apps)
+  - [Games meta resource](#games-meta-resource)
+  - [All-purpose meta resource](#all-purpose-meta-resource)
+- [Streaming tools](#streaming-tools)
+  - [Browser add-ons](#browser-add-ons)
 
 ## Pre-requisites
 
@@ -66,7 +79,5 @@ aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0ZSRUVNRURJQUhFQ0tZRUFIL3dpa2kvaW5kZXgv
 ## Streaming tools
 
 ### Browser add-ons
-
-#### Anime
 
 - [MALSync](https://malsync.moe/)
