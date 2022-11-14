@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://beyond9thousand.github.io/techsupport/sitemap.xml.gz
+Sitemap: https://beyond9thousand.github.io/meta/sitemap.xml.gz
