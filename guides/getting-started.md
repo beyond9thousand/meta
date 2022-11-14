@@ -3,7 +3,9 @@ icon: rocket
 order: 100
 ---
 
-List of subjects you should gloss over before surfing through the contents of this repository
+!!!warning
+Please gloss over the subjects mentioned in this page before proceeding
+!!!
 
 ### Converting code blocks
 
@@ -16,15 +18,17 @@ You will come across several places on this website with scrambled looking text.
 - [base64decode](https://www.base64decode.org/)
   +++
 
-### Exercise
+=== Exercise
 
-Try converting the base64 code and plain text to their required forms
+Try converting the base64 code to obtain the corresponding URL
 
-+++ Convert to text
++++ Convert to URL
 
 ```
 aHR0cHM6Ly9naXRodWIuY29tLw==
 ```
 
-+++ Convert to base64
-https://beyond9thousand.github.io/techsupport/
++++ Result
+`https://github.com/`
++++
+===

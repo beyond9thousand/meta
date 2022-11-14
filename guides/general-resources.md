@@ -30,9 +30,3 @@ aHR0cHM6Ly9yZW50cnkub3JnL3BnYW1lcy1tZWdhLXRocmVhZA==
 ```
 aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0ZSRUVNRURJQUhFQ0tZRUFIL3dpa2kvaW5kZXgv
 ```
-
-## Streaming tools
-
-### Browser add-ons
-
-- [MALSync](https://malsync.moe/)

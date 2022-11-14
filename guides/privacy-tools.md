@@ -1,6 +1,7 @@
 ---
 icon: lock
 tags: [privacy, safety]
+order: 99
 ---
 
 ### Two-factor authentication apps
@@ -19,7 +20,7 @@ tags: [privacy, safety]
 
 ### Search Engines
 
-Listed in decreasing order of preference based on privacy policy and performance
+> Listed in decreasing order of preference based on privacy policy and performance
 
 - [Searx](https://searx.space/)
 - [Startpage](https://www.startpage.com/)
