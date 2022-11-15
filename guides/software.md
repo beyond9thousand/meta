@@ -4,8 +4,6 @@ icon: package
 order: 98
 ---
 
-<base target="_blank" rel="noopener">
-
 ## Open-source android apps
 
 ### App store
