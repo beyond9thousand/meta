@@ -39,3 +39,7 @@ meta:
 search:
   minChars: 3
   mode: full
+
+integrations:
+  googleAnalytics:
+    id: G-MCZCBE4E9S
