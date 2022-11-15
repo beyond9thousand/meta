@@ -4,7 +4,7 @@ order: 100
 ---
 
 !!!warning
-Please gloss over the subjects mentioned in this page before proceeding
+Before continuing, please skim over the topics presented on this page
 !!!
 
 ### Converting code blocks

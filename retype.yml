@@ -34,4 +34,4 @@ meta:
 
 search:
   minChars: 3
-  mode: partial
+  mode: full
