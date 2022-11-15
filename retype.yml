@@ -5,19 +5,16 @@ url: https://beyond9thousand.github.io/meta
 branding:
   title: beyond9thousand
   label: v1.0
-  logo: ./assets/b9klogo.png
+  logo: ./assets/b9klogo_dark.png
+  logoDark: ./assets/b9klogo.png
 
 links:
 - text: Home
-  link: ./README.md
+  link: ./readme.md
 - text: Website
   link: https://beyond9thousand.vercel.app/
   icon: "link-external"
   target: blank
-- text: Github
-  link: https://github.com/beyond9thousand/meta
-  target: blank
-  icon: "mark-github"
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
