@@ -1,13 +1,14 @@
 ---
 icon: rocket
+tags: [tutorial]
 order: 100
 ---
 
 !!!warning
-Before continuing, please skim over the topics presented on this page. These will serve as pre-requisites
+Concepts discussed on this page will serve as pre-requisites for utilizing various tools mentioned on this blog. Please do not skip.
 !!!
 
-### Converting code blocks
+### :icon-code-square: Converting code blocks
 
 You will come across several places on this website with scrambled looking text. These are typically URL(s) that have been converted to **base64** to avoid direct linkage for security reasons
 
