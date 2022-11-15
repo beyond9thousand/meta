@@ -4,14 +4,15 @@ output: .retype
 url: https://beyond9thousand.github.io/meta
 branding:
   title: beyond9thousand
-  label: 1.0
+  label: v1.0
   logo: ./assets/b9klogo.png
 
 links:
 - text: Home
   link: ./README.md
-- text: Portfolio
+- text: Website
   link: https://beyond9thousand.vercel.app/
+  icon: "link-external"
   target: blank
 - text: Github
   link: https://github.com/beyond9thousand/meta
@@ -20,6 +21,9 @@ links:
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  links:
+    - text: Report problem
+      link: https://github.com/beyond9thousand/meta/issues/new/choose
 
 cache:
   strategy: query
