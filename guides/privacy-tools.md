@@ -21,7 +21,7 @@ Using private messaging services, including both email and social media without 
 
 ### :icon-mail: Temporary email services
 
-Use a disposable email address rather than your work or personal account if you are unsure about a new service you are going to sign up for. An added benefit is that you won't have a clogged inbox or risk being added to a list for newsletters and other garbage.
+Use a disposable email address instead of your work or personal account when unsure about signing up on a new service. An added benefit of using throaway email addresses is that you won't have a clogged inbox or risk being added to a list for newsletters and other garbage.
 
 - [Alt Address](https://altaddress.org/) [!badge variant="ghost" text="Suggested"]
 - [Guerilla Mail](https://www.guerrillamail.com/)
