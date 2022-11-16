@@ -6,13 +6,13 @@ order: 98
 
 ## :icon-device-mobile: Mobile apps
 
-Select your operating system
+Enhanced, modified or open source projects for various utilities and entertainment services
 
 +++ Android
 
 ### :icon-apps: App store
 
-=== F-droid
+==- F-droid
 
 Similar to the Google Play store, F-Droid is an Android app shop and software repository. There are **solely open source** and free applications in the project's primary repository. Without creating an account, users can browse, download, and install applications from the F-Droid website or client app. In app descriptions, **_anti-features_** like advertising, user tracking, or reliance on proprietary software are noted.
 
@@ -27,7 +27,7 @@ Similar to the Google Play store, F-Droid is an Android app shop and software re
 
 ### :icon-video: Streaming
 
-=== ReVanced Manager [!badge variant="info" text="Youtube"]
+==- ReVanced Manager [!badge variant="info" text="Youtube"]
 
 ReVanced offers open-source patches **instead of distributing any proprietary files.** Any Android app can have a patch made. The patcher will serve as the ReVanced Manager's main component for applying patches to the apps you choose. ReVanced can mount the patched software over the original app on rooted devices. ReVanced will set it up with a different package name for non-rooted devices.
 
@@ -43,17 +43,13 @@ ReVanced Manager requires the full APK file inorder to apply patches properly. B
 
 [!ref Link](https://github.com/revanced/revanced-manager)
 
-===
-
-=== Cloudstream [!badge variant="info" text="Movies & TV"] [!badge variant="info" text="Anime"]
+==- Cloudstream [!badge variant="info" text="Movies & TV"] [!badge variant="info" text="Anime"]
 
 CloudStream lets you stream and download movies, TV-Series and anime. The app comes without any ads and analytics. It supports multiple trailer & movie sites, and more.
 
 [!ref Link](https://github.com/recloudstream/cloudstream)
 
-===
-
-=== Aniyomi [!badge variant="info" text="Anime"] [!badge variant="info" text="Manga"]
+==- Aniyomi [!badge variant="info" text="Anime"] [!badge variant="info" text="Manga"]
 
 Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime streaming capabilities! For Android 6.0 and above.
 
@@ -63,7 +59,7 @@ Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi
 
 ### :icon-book: Comic book reader
 
-=== Tachiyomi [!badge variant="info" text="Manga"]
+==- Tachiyomi [!badge variant="info" text="Manga"]
 
 Tachiyomi is an app that makes it quicker and simpler than ever to read any manga from your smartphone. All you have to do is choose a title from its enormous library, which includes works that are accessible through several sources. From there, you can simply use your search engine to locate any manga by its title. You can start reading your favourite manga right away.
 
@@ -91,9 +87,11 @@ Work in progress
 
 ## Cross-platform
 
+Services or softwares that are either compatible or have identical implementations of projects by the same author or a group across all devices
+
 ### :icon-package: Alternative software lookup
 
-=== Alternativeto
+==- AlternativeTo [!badge variant="ghost" text="Suggested"]
 
 AlternativeTo is a website that lists and sorts alternatives to web-based software, desktop computer software, and mobile apps based on various criteria such as number of likes, reviews from registered users, and so on.
 

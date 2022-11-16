@@ -8,7 +8,7 @@ order: 99
 Mobile apps mentioned here are deliberately excluded from [mobile apps](/guides/software/#mobile-apps) to make them more distinctly visible
 !!!
 
-### :icon-key: Two-factor authentication apps
+### :icon-key: Two-factor authentication apps [!badge variant="danger" text="Critical"]
 
 [Two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication#Mobile_phone-based_authentication) or **2FA** is an additional layer of security used to ensure that people attempting to access an online account are who they claim to be. A user will first enter their username and password. Instead of gaining immediate access, they will be required to provide additional information.
 
@@ -30,7 +30,7 @@ Use a disposable email address rather than your work or personal account if you 
 
 > Listed in decreasing order of preference based on privacy policy and performance
 
-=== Searx [!badge variant="ghost" text="Suggested"]
+==- Searx [!badge variant="ghost" text="Suggested"]
 [Searx](https://github.com/searx/searx) is a free and open-source metasearch engine that uses the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.en.html) to protect its users' privacy.
 To that end, Searx does not share users' IP addresses or search history with the search engines that provide results. Search engine tracking cookies are blocked, preventing user-profiling-based results modification.
 

@@ -8,7 +8,7 @@ order: 100
 Concepts discussed on this page will serve as pre-requisites for utilizing various tools mentioned on this blog. Please do not skip them.
 !!!
 
-### :icon-code-square: Converting code blocks
+### :icon-code-square: Converting code blocks [!badge variant="danger" text="Critical"]
 
 You will come across several places on this blog with scrambled looking text. These are typically URL(s) that have been converted to [base64 format](https://en.wikipedia.org/wiki/Base64)
 
@@ -19,7 +19,7 @@ You will come across several places on this blog with scrambled looking text. Th
 - [base64decode](https://www.base64decode.org/)
   +++
 
-=== Exercise
+==- Exercise [!badge variant="ghost" text="Optional"]
 
 Try converting the base64 code to obtain the corresponding URL
 
