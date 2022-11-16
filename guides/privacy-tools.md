@@ -5,7 +5,7 @@ order: 99
 ---
 
 !!!
-Android apps mentioned here are deliberately excluded from [android apps](/guides/software/#android-apps) to make them more distinctly visible
+Mobile apps mentioned here are deliberately excluded from [mobile apps](/guides/software/#mobile-apps) to make them more distinctly visible
 !!!
 
 ### :icon-key: Two-factor authentication apps
@@ -23,13 +23,22 @@ Using private messaging services, including both email and social media without 
 
 Use a disposable email address rather than your work or personal account if you are unsure about a new service you are going to sign up for. An added benefit is that you won't have a clogged inbox or risk being added to a list for newsletters and other garbage.
 
-- [Alt Address](https://altaddress.org/) [!badge variant="dark" text="Suggested"]
+- [Alt Address](https://altaddress.org/) [!badge variant="ghost" text="Suggested"]
 - [Guerilla Mail](https://www.guerrillamail.com/)
 
 ### :icon-search: Search Engines
 
 > Listed in decreasing order of preference based on privacy policy and performance
 
-- [Searx](https://searx.space/) [!badge variant="dark" text="Suggested"]
+=== Searx [!badge variant="ghost" text="Suggested"]
+Searx is a free and open-source metasearch engine that uses the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.en.html) to protect its users' privacy.
+To that end, Searx does not share users' IP addresses or search history with the search engines that provide results. Search engine tracking cookies are blocked, preventing user-profiling-based results modification.
+
+> Any user may run their own instance of Searx to maximise privacy, avoid congestion on public instances, preserve customised settings even if browser cookies are cleared, allow auditing of the source code being run, and so on.
+
+[!button size="s" text="Instances"](https://searx.space/)
+
+===
+
 - [Startpage](https://www.startpage.com/)
 - [Duckduckgo](https://duckduckgo.com/) [!badge variant="danger" text="Controversial"](https://9to5mac.com/2022/05/25/duckduckgo-privacy-microsoft-permission-tracking/)

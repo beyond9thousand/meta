@@ -5,7 +5,7 @@ order: 100
 ---
 
 !!!warning
-Concepts discussed on this page will serve as pre-requisites for utilizing various tools mentioned on this blog. Please do not skip.
+Concepts discussed on this page will serve as pre-requisites for utilizing various tools mentioned on this blog. Please do not skip them.
 !!!
 
 ### :icon-code-square: Converting code blocks
