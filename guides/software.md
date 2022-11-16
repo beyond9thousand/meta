@@ -53,7 +53,7 @@ Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi
 
 === Tachiyomi [!badge variant="info" text="Manga"]
 
-Tachiyomi is an app that makes it quicker and simpler than ever to read any manga from your smartphone. All you have to do is choose a title from its enormous library, which includes works that are accessible through Kissmanga, Mangafox, and Mangahere. From there, you can simply use your search engine to locate any manga by its title. You can start reading your favourite manga right away.
+Tachiyomi is an app that makes it quicker and simpler than ever to read any manga from your smartphone. All you have to do is choose a title from its enormous library, which includes works that are accessible through several sources. From there, you can simply use your search engine to locate any manga by its title. You can start reading your favourite manga right away.
 
 [!button size="s" text="Website"](https://tachiyomi.org/)
 
