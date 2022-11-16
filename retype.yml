@@ -24,7 +24,7 @@ footer:
       icon: "alert"
     - text: Feedback
       link: https://github.com/beyond9thousand/meta/discussions/new
-      icon: "question"
+      icon: "comment-discussion"
 
 cache:
   strategy: query
