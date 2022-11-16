@@ -16,7 +16,7 @@ Enhanced, modified or open source projects for various utilities and entertainme
 
 Similar to the Google Play store, F-Droid is an Android app shop and software repository. There are **solely open source** and free applications in the project's primary repository. Without creating an account, users can browse, download, and install applications from the F-Droid website or client app. In app descriptions, **_anti-features_** like advertising, user tracking, or reliance on proprietary software are noted.
 
-| **Recommended forks**                                                                               |
+| **Recommended apps**                                                                                |
 | --------------------------------------------------------------------------------------------------- |
 | [Neo-store](https://github.com/NeoApplications/Neo-Store) [!badge variant="ghost" text="Suggested"] |
 | [Droid-ify](https://github.com/Iamlooker/Droid-ify)                                                 |
@@ -65,7 +65,7 @@ Tachiyomi is an app that makes it quicker and simpler than ever to read any mang
 
 [!ref Link](https://tachiyomi.org/)
 
-> Take a look at the [Tachiyomi forks](https://tachiyomi.org/forks/) for quality of life improvements and other enhancements
+[!button Modified versions](https://gitpop2.vercel.app/tachiyomiorg/tachiyomi)
 
 ===
 
