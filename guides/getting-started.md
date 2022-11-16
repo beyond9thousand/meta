@@ -10,7 +10,7 @@ Concepts discussed on this page will serve as pre-requisites for utilizing vario
 
 ### :icon-code-square: Converting code blocks
 
-You will come across several places on this website with scrambled looking text. These are typically URL(s) that have been converted to **base64**. It is an encoding algorithm that converts any character into an alphabet consisting of Latin letters, digits, plus, and slash. Other useful applications include turning photos, emoji, and Chinese characters into "readable" strings that may be saved or transmitted to any site.
+You will come across several places on this blog with scrambled looking text. These are typically URL(s) that have been converted to [base64 format](https://en.wikipedia.org/wiki/Base64)
 
 +++ Encode
 

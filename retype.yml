@@ -19,8 +19,12 @@ links:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
   links:
-    - text: Report a problem with the website
+    - text: Problem
       link: https://github.com/beyond9thousand/meta/issues/new/choose
+      icon: "alert"
+    - text: Feedback
+      link: https://github.com/beyond9thousand/meta/discussions/new
+      icon: "question"
 
 cache:
   strategy: query

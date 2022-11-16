@@ -10,7 +10,7 @@ Mobile apps mentioned here are deliberately excluded from [mobile apps](/guides/
 
 ### :icon-key: Two-factor authentication apps
 
-Two-factor authentication or **2FA** is an additional layer of security used to ensure that people attempting to access an online account are who they claim to be. A user will first enter their username and password. Instead of gaining immediate access, they will be required to provide additional information.
+[Two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication#Mobile_phone-based_authentication) or **2FA** is an additional layer of security used to ensure that people attempting to access an online account are who they claim to be. A user will first enter their username and password. Instead of gaining immediate access, they will be required to provide additional information.
 
 !!!danger
 Using private messaging services, including both email and social media without activating 2FA is extremely dangerous. You are practically asking to get **hacked, impersonated and doxxed online.** It is highly advised against turning-off 2FA for convenience purposes.
@@ -31,7 +31,7 @@ Use a disposable email address rather than your work or personal account if you 
 > Listed in decreasing order of preference based on privacy policy and performance
 
 === Searx [!badge variant="ghost" text="Suggested"]
-Searx is a free and open-source metasearch engine that uses the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.en.html) to protect its users' privacy.
+[Searx](https://github.com/searx/searx) is a free and open-source metasearch engine that uses the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.en.html) to protect its users' privacy.
 To that end, Searx does not share users' IP addresses or search history with the search engines that provide results. Search engine tracking cookies are blocked, preventing user-profiling-based results modification.
 
 > Any user may run their own instance of Searx to maximise privacy, avoid congestion on public instances, preserve customised settings even if browser cookies are cleared, allow auditing of the source code being run, and so on.
