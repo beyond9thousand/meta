@@ -16,7 +16,7 @@ Select your operating system
 
 Similar to the Google Play store, F-Droid is an Android app shop and software repository. There are **solely open source** and free applications in the project's primary repository. Without creating an account, users can browse, download, and install applications from the F-Droid website or client app. In app descriptions, **_anti-features_** like advertising, user tracking, or reliance on proprietary software are noted.
 
-| **Forks**                                                                                           |
+| **Recommended forks**                                                                               |
 | --------------------------------------------------------------------------------------------------- |
 | [Neo-store](https://github.com/NeoApplications/Neo-Store) [!badge variant="ghost" text="Suggested"] |
 | [Droid-ify](https://github.com/Iamlooker/Droid-ify)                                                 |
@@ -31,7 +31,7 @@ Similar to the Google Play store, F-Droid is an Android app shop and software re
 
 ReVanced offers open-source patches **instead of distributing any proprietary files.** Any Android app can have a patch made. The patcher will serve as the ReVanced Manager's main component for applying patches to the apps you choose. ReVanced can mount the patched software over the original app on rooted devices. ReVanced will set it up with a different package name for non-rooted devices.
 
-| **Dependency**                                                        |
+| **Dependencies**                                                      |
 | --------------------------------------------------------------------- |
 | [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases)  |
 | [NewPipe](https://newpipe.net/)                                       |
