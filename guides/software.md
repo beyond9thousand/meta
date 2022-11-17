@@ -65,7 +65,7 @@ Tachiyomi is an app that makes it quicker and simpler than ever to read any mang
 
 [!ref Link](https://tachiyomi.org/)
 
-[!button Modified versions](https://gitpop2.vercel.app/tachiyomiorg/tachiyomi)
+[!button size="s" text="Modified versions"](https://gitpop2.vercel.app/tachiyomiorg/tachiyomi)
 
 ===
 
