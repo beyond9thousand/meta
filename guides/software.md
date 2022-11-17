@@ -14,7 +14,11 @@ Enhanced, modified or open source projects for various utilities and entertainme
 
 ==- F-droid
 
-Similar to the Google Play store, F-Droid is an Android app shop and software repository. There are **solely open source** and free applications in the project's primary repository. Without creating an account, users can browse, download, and install applications from the F-Droid website or client app. In app descriptions, **_anti-features_** like advertising, user tracking, or reliance on proprietary software are noted.
+- Open-source project
+- Google play store alternative
+- Main repository purely consists of open-source apps
+- Multiple sources can be added and configured
+- In-depth detailing about apps that rely on non-free services
 
 | **Recommended apps**                                                                                |
 | --------------------------------------------------------------------------------------------------- |
@@ -29,7 +33,10 @@ Similar to the Google Play store, F-Droid is an Android app shop and software re
 
 ==- ReVanced Manager [!badge variant="info" text="Youtube"]
 
-ReVanced offers open-source patches **instead of distributing any proprietary files.** Any Android app can have a patch made. The patcher will serve as the ReVanced Manager's main component for applying patches to the apps you choose. ReVanced can mount the patched software over the original app on rooted devices. ReVanced will set it up with a different package name for non-rooted devices.
+- Open-source project
+- Offers patches for Youtube APK instead of providing the modified APK
+- Highly configurable end product due to nature of app
+- Works on rooted and **non-rooted** devices
 
 | **Dependencies**                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------- |
@@ -45,13 +52,25 @@ ReVanced Manager requires the full APK file inorder to apply patches properly. B
 
 ==- Cloudstream [!badge variant="info" text="Movies & TV"] [!badge variant="info" text="Anime"]
 
-CloudStream lets you stream and download movies, TV-Series and anime. The app comes without any ads and analytics. It supports multiple trailer & movie sites, and more.
+- Open-source project
+- Stream and download movies, TV shows and anime
+- No in-app purchases or advertisements
+
+!!!
+Relies on some non-free services due to the nature of the app
+!!!
 
 [!ref Link](https://github.com/recloudstream/cloudstream)
 
 ==- Aniyomi [!badge variant="info" text="Anime"] [!badge variant="info" text="Manga"]
 
-Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime streaming capabilities! For Android 6.0 and above.
+- Open-source project
+- Unofficial fork of [Tachiyomi](/guides/software/#tachiyomi-badge-variant-info-text-manga)
+- Adds anime streaming capabilities on top of original features
+
+!!!
+Relies on some non-free services due to the nature of the app
+!!!
 
 [!ref Link](https://aniyomi.jmir.xyz/)
 
@@ -61,7 +80,15 @@ Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi
 
 ==- Tachiyomi [!badge variant="info" text="Manga"]
 
-Tachiyomi is an app that makes it quicker and simpler than ever to read any manga from your smartphone. All you have to do is choose a title from its enormous library, which includes works that are accessible through several sources. From there, you can simply use your search engine to locate any manga by its title. You can start reading your favourite manga right away.
+- Open-source project
+- Read comics & manga from several sources
+- Material UI with customizable themes
+- Highly configurable options
+- One-way synchronized chapter tracking
+
+!!!
+Relies on some non-free services due to the nature of the app
+!!!
 
 [!ref Link](https://tachiyomi.org/)
 
