@@ -27,4 +27,11 @@ aHR0cHM6Ly9naXRodWIuY29tLw==
 +++ Result
 `https://github.com/`
 +++
+
 ===
+
+### :icon-light-bulb: Points to remember
+
+- Descriptions & information provided for each resource mentioned in this blog is not error-free
+- All applications mentioned in this blog are open-source projects unless mentioned otherwise
+- Everything mentioned in this blog has either been used in the past or is currently being used by me

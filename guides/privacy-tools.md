@@ -10,7 +10,9 @@ Mobile apps mentioned here are deliberately excluded from [mobile apps](/guides/
 
 ### :icon-key: Two-factor authentication apps [!badge variant="danger" text="Critical"]
 
-[Two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication#Mobile_phone-based_authentication) or **2FA** is an additional layer of security used to ensure that people attempting to access an online account are who they claim to be. A user will first enter their username and password. Instead of gaining immediate access, they will be required to provide additional information.
+[Two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication#Mobile_phone-based_authentication) or **2FA** is an additional layer of security used to ensure that people attempting to access an online account are who they claim to be. Users are required to provide a secondary password-like phrase, usually through a backup code or a periodically generated 6-digit number that is unique to every account.
+
+This in turn ensures that your accounts remain protected in the event of password breaches or mishandling due to human error on the user end.
 
 !!!danger
 Using private messaging services, including both email and social media without activating 2FA is extremely dangerous. You are practically asking to get **hacked, impersonated and doxxed online.** It is highly advised against turning-off 2FA for convenience purposes.

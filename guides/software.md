@@ -14,7 +14,6 @@ Enhanced, modified or open source projects for various utilities and entertainme
 
 ==- F-droid
 
-- Open-source project
 - Google play store alternative
 - Main repository purely consists of open-source apps
 - Multiple sources can be added and configured
@@ -33,7 +32,6 @@ Enhanced, modified or open source projects for various utilities and entertainme
 
 ==- ReVanced Manager [!badge variant="info" text="Youtube"]
 
-- Open-source project
 - Offers patches for Youtube APK instead of providing the modified APK
 - Highly configurable end product due to nature of app
 - Works on rooted and **non-rooted** devices
@@ -52,7 +50,6 @@ ReVanced Manager requires the full APK file inorder to apply patches properly. B
 
 ==- Cloudstream [!badge variant="info" text="Movies & TV"] [!badge variant="info" text="Anime"]
 
-- Open-source project
 - Stream and download movies, TV shows and anime
 - No in-app purchases or advertisements
 
@@ -64,7 +61,6 @@ Relies on some non-free services due to the nature of the app
 
 ==- Aniyomi [!badge variant="info" text="Anime"] [!badge variant="info" text="Manga"]
 
-- Open-source project
 - Unofficial fork of [Tachiyomi](/guides/software/#tachiyomi-badge-variant-info-text-manga)
 - Adds anime streaming capabilities on top of original features
 
@@ -80,7 +76,6 @@ Relies on some non-free services due to the nature of the app
 
 ==- Tachiyomi [!badge variant="info" text="Manga"]
 
-- Open-source project
 - Read comics & manga from several sources
 - Material UI with customizable themes
 - Highly configurable options
