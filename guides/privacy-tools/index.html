@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/meta">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.722121499695">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.722267391403">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -35,11 +35,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/meta/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../assets/b9klogo.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.722121499695" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.722267391403" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.722121499695" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.722267391403" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.722121499695" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.722267391403" data-turbo-eval="false" defer></script>
 
     <style>
       .image {
@@ -255,7 +255,7 @@
             </svg>
         </div>
         <div class="pr-5 ml-3 w-full">
-<p>Using private messaging services, including both email and social media without activating 2FA is extremely dangerous. You are practically asking to get <strong>hacked, impersonated and doxxed online.</strong> It is highly advised against turning-off 2FA for convenience purposes.</p>
+<p>Using private messaging services, including social media platforms without activating 2FA is extremely dangerous. You are practically asking to get <strong>hacked, impersonated and doxxed online.</strong> It is highly advised against turning-off 2FA for convenience purposes.</p>
         </div>
     </div>
 </div>
@@ -265,13 +265,57 @@
 </a></li>
 <li><a href="https://github.com/beemdevelopment/Aegis">Aegis</a></li>
 </ul>
+<doc-anchor-target id="ad-blocking">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ad-blocking">#</doc-anchor-trigger>
+        <span><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12A9.5 9.5 0 0112 2.5c2.353 0 4.507.856 6.166 2.273L4.773 18.166A9.462 9.462 0 012.5 12zm3.334 7.227A9.462 9.462 0 0012 21.5a9.5 9.5 0 009.5-9.5 9.462 9.462 0 00-2.273-6.166L5.834 19.227z"/></g></g></svg> Ad-blocking</span>
+    </h3>
+</doc-anchor-target>
+<doc-tabs>
+<doc-tab id="android">
+<template #title>Android</template>
+<doc-panel id="private-dns-badge-variant-ghost-text-suggested" collapsed>
+    <template #title>Private DNS <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-gray-900 bg-white border border-gray-300 dark:text-dark-350 dark:text-white dark:border-dark-450 dark:bg-dark-450 h-6 px-2 text-xs rounded-md">
+    <span>Suggested</span>
+</span></template>
+<p>Starting with android 9, you have the option of enabling seamless ad-block system wide. This is achieved using <a href="https://adguard.com/en/blog/adguard-dns-announcement.html">private DNS</a> providers.</p>
+<p>To enable ad-blocking through private DNS:</p>
+<ul>
+<li>Go to <strong>Settings &gt; Network and Internet &gt; Advanced &gt; Private DNS</strong></li>
+<li>Select the field for entering private DNS provider</li>
+<li>To use <a href="https://en.wikipedia.org/wiki/AdGuard">AdGuard&#x27;s</a> resolver, enter <code v-pre>dns.adguard.com</code></li>
+<li>Save your settings and continue browsing</li>
+</ul>
+<p><a href="https://dnsprivacy.org/public_resolvers/#dns-over-tls-dot" class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-blue-500 hover:bg-blue-700 text-white px-3 h-8 text-sm rounded">
+    <span>Other providers</span>
+</a></p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Advertisements shown inside major social media apps are an exception to this feature since they do not fall under consistent <a href="https://en.wikipedia.org/wiki/Ad_blocking#Hosts_file_and_DNS_manipulation">host names</a> required for enforcing ad-blocking</p>
+        </div>
+    </div>
+</div>
+</doc-panel>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="temporary-email-services">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#temporary-email-services">#</doc-anchor-trigger>
         <span><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M1.75 3A1.75 1.75 0 000 4.75v14c0 .966.784 1.75 1.75 1.75h20.5A1.75 1.75 0 0024 18.75v-14A1.75 1.75 0 0022.25 3H1.75zM1.5 4.75a.25.25 0 01.25-.25h20.5a.25.25 0 01.25.25v.852l-10.36 7a.25.25 0 01-.28 0l-10.36-7V4.75zm0 2.662V18.75c0 .138.112.25.25.25h20.5a.25.25 0 00.25-.25V7.412l-9.52 6.433c-.592.4-1.368.4-1.96 0L1.5 7.412z"/></g></g></svg> Temporary email services</span>
     </h3>
 </doc-anchor-target>
-<p>Use a disposable email address instead of your work or personal account when unsure about signing up on a new service. An added benefit of using throaway email addresses is that you won&#x27;t have a clogged inbox or risk being added to a list for newsletters and other garbage.</p>
+<p>Use a disposable email address instead of your work or personal account when unsure about signing up on a new service. An added benefit of using throaway email addresses is that you avoid ending up in random news mail letter subscriptions &amp; other such annoyances.</p>
 <ul>
 <li><a href="https://altaddress.org/">Alt Address</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-gray-900 bg-white border border-gray-300 dark:text-dark-350 dark:text-white dark:border-dark-450 dark:bg-dark-450 h-6 px-2 text-xs rounded-md">
     <span>Suggested</span>
@@ -294,7 +338,7 @@
 <p><a href="https://github.com/searx/searx">Searx</a> is a free and open-source metasearch engine that uses the <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">GNU Affero General Public License version 3</a> to protect its users&#x27; privacy.
 To that end, Searx does not share users&#x27; IP addresses or search history with the search engines that provide results. Search engine tracking cookies are blocked, preventing user-profiling-based results modification.</p>
 <blockquote>
-<p>Any user may run their own instance of Searx to maximise privacy, avoid congestion on public instances, preserve customised settings even if browser cookies are cleared, allow auditing of the source code being run, and so on.</p>
+<p>Any user may run their own <a href="https://linuxreviews.org/Searx#What_it_is_and_isn.27t">instance</a> of Searx to maximise privacy, avoid congestion on public instances, preserve customised settings even if browser cookies are cleared, allow auditing of the source code being run, and so on.</p>
 </blockquote>
 <p><a href="https://searx.space/" class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-blue-500 hover:bg-blue-700 text-white px-3 h-8 text-sm rounded">
     <span>Instances</span>
