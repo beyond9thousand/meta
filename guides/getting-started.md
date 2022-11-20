@@ -32,6 +32,7 @@ aHR0cHM6Ly9naXRodWIuY29tLw==
 
 ### :icon-light-bulb: Points to remember
 
-- Descriptions & information provided for each resource mentioned in this blog is not error-free
-- All applications mentioned in this blog are open-source projects unless mentioned otherwise
+- Descriptions & information provided for each resource mentioned in this blog are not error-free
+- All **applications** (only) mentioned in this blog are open-source projects unless mentioned otherwise
 - Everything mentioned in this blog has either been used in the past or is currently being used by me
+- I do not condone digital piracy. It is illegal. It should not be <sup>[[1]](https://policyreview.info/articles/analysis/digital-piracy-debunked-short-note-digital-threats-and-intermediary-liability) [[2]](https://www.sciencedirect.com/science/article/abs/pii/S0166497206001040) </sup>

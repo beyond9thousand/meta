@@ -54,7 +54,7 @@ ReVanced Manager requires the full APK file inorder to apply patches properly. B
 - No in-app purchases or advertisements
 
 !!!
-Relies on some non-free services due to the nature of the app
+Relies on some non-free dependencies
 !!!
 
 [!ref Link](https://github.com/recloudstream/cloudstream)
@@ -65,7 +65,7 @@ Relies on some non-free services due to the nature of the app
 - Adds anime streaming capabilities on top of original features
 
 !!!
-Relies on some non-free services due to the nature of the app
+Relies on some non-free dependencies
 !!!
 
 [!ref Link](https://aniyomi.jmir.xyz/)
@@ -82,7 +82,7 @@ Relies on some non-free services due to the nature of the app
 - One-way synchronized chapter tracking
 
 !!!
-Relies on some non-free services due to the nature of the app
+Relies on some non-free dependencies
 !!!
 
 [!ref Link](https://tachiyomi.org/)
