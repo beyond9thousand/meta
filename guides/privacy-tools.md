@@ -25,7 +25,7 @@ Using private messaging services, including social media platforms without activ
 
 +++ Android
 
-==- Private DNS [!badge variant="ghost" text="Suggested"]
+==- Private DNS [!badge variant="info" text="Suggested"]
 
 Starting with android 9, you have the option of enabling seamless ad-block system wide. This is achieved using [private DNS](https://adguard.com/en/blog/adguard-dns-announcement.html) providers.
 
@@ -50,14 +50,13 @@ Advertisements shown inside major social media apps are an exception to this fea
 
 Use a disposable email address instead of your work or personal account when unsure about signing up on a new service. An added benefit of using throaway email addresses is that you avoid ending up in random news mail letter subscriptions & other such annoyances.
 
-- [Alt Address](https://altaddress.org/) [!badge variant="ghost" text="Suggested"]
+- [Alt Address](https://altaddress.org/) [!badge variant="info" text="Suggested"]
 - [Guerilla Mail](https://www.guerrillamail.com/)
 
 ### :icon-search: Search Engines
 
-> Listed in decreasing order of preference based on privacy policy and performance
+==- Searx [!badge variant="info" text="Suggested"]
 
-==- Searx [!badge variant="ghost" text="Suggested"]
 [Searx](https://github.com/searx/searx) is a free and open-source metasearch engine that uses the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.en.html) to protect its users' privacy.
 To that end, Searx does not share users' IP addresses or search history with the search engines that provide results. Search engine tracking cookies are blocked, preventing user-profiling-based results modification.
 

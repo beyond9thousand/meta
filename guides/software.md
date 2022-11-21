@@ -21,16 +21,35 @@ Enhanced, modified or open source projects for various utilities and entertainme
 
 | **Recommended apps**                                                                                |
 | --------------------------------------------------------------------------------------------------- |
-| [Neo-store](https://github.com/NeoApplications/Neo-Store) [!badge variant="ghost" text="Suggested"] |
+| [Neo-store](https://github.com/NeoApplications/Neo-Store) [!badge variant="info" text="Suggested"] |
 | [Droid-ify](https://github.com/Iamlooker/Droid-ify)                                                 |
 
 [!ref Link](https://f-droid.org/)
 
 ===
 
+### :icon-workflow: Dual-apps
+
+==- Managers
+
+> These manager apps take advantage of the [managed profile](https://developer.android.com/work/managed-profiles) feature on [Android 5.0+](https://www.android.com/versions/lollipop-5-0/), which is also the base of [Android for work](https://developer.android.com/work/), to create an isolated sandbox for any app with its data.
+
+- Clone and run multiple accounts simutaniuosly
+- Freeze or archive apps and prevent any background behaviors
+- Unfreeze apps on-demand with home screen shortcuts
+- Re-freeze marked apps with one tap
+- Hide apps
+
+| Recommended apps                                    |
+| --------------------------------------------------- |
+| [Insular](https://secure-system.gitlab.io/Insular/) |
+| [Shelter](https://gitea.angry.im/PeterCxy/Shelter)  |
+
+===
+
 ### :icon-video: Streaming
 
-==- ReVanced Manager [!badge variant="info" text="Youtube"]
+==- ReVanced Manager [!badge variant="ghost" text="Youtube"] [!badge variant="info" text="Suggested"]
 
 - Offers patches for Youtube APK instead of providing the modified APK
 - Highly configurable end product due to nature of app
@@ -48,7 +67,7 @@ ReVanced Manager requires the full APK file inorder to apply patches properly. B
 
 [!ref Link](https://github.com/revanced/revanced-manager)
 
-==- Cloudstream [!badge variant="info" text="Movies & TV"] [!badge variant="info" text="Anime"]
+==- Cloudstream [!badge variant="ghost" text="Movies & TV"] [!badge variant="ghost" text="Anime"]
 
 - Stream and download movies, TV shows and anime
 - No in-app purchases or advertisements
@@ -59,7 +78,7 @@ Relies on some non-free dependencies
 
 [!ref Link](https://github.com/recloudstream/cloudstream)
 
-==- Aniyomi [!badge variant="info" text="Anime"] [!badge variant="info" text="Manga"]
+==- Aniyomi [!badge variant="ghost" text="Anime"] [!badge variant="ghost" text="Manga"]
 
 - Unofficial fork of [Tachiyomi](/guides/software/#tachiyomi-badge-variant-info-text-manga)
 - Adds anime streaming capabilities on top of original features
@@ -74,7 +93,7 @@ Relies on some non-free dependencies
 
 ### :icon-book: Comic book reader
 
-==- Tachiyomi [!badge variant="info" text="Manga"]
+==- Tachiyomi [!badge variant="ghost" text="Manga"]
 
 - Read comics & manga from several sources
 - Material UI with customizable themes
@@ -107,15 +126,19 @@ Work in progress
 !!!
 +++
 
-## Cross-platform
+## :icon-git-compare: Cross-platform
 
 Services or softwares that are either compatible or have identical implementations of projects by the same author or a group across all devices
 
 ### :icon-package: Alternative software lookup
 
-==- AlternativeTo [!badge variant="ghost" text="Suggested"]
+==- AlternativeTo [!badge variant="info" text="Suggested"]
 
 AlternativeTo is a website that lists and sorts alternatives to web-based software, desktop computer software, and mobile apps based on various criteria such as number of likes, reviews from registered users, and so on.
+
+!!!success
+AlternativeTo is an **extremely** invaluable tool. It is strengthened by community suggestions. This in turn makes the information provided on the website very descriptive and up to date.
+!!!
 
 [!ref Link](https://alternativeto.net/)
 
