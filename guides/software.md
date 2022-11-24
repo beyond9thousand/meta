@@ -15,14 +15,15 @@ Enhanced, modified or open source projects for various utilities and entertainme
 ==- F-droid
 
 - Google play store alternative
-- Main repository purely consists of open-source apps
+- Main repository purely consists of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) apps
 - Multiple sources can be added and configured
 - In-depth detailing about apps that rely on non-free services
 
-| **Recommended apps**                                                                                |
-| --------------------------------------------------------------------------------------------------- |
-| [Neo-store](https://github.com/NeoApplications/Neo-Store) [!badge variant="info" text="Suggested"] |
-| [Droid-ify](https://github.com/Iamlooker/Droid-ify)                                                 |
+| **Recommended clients**                                                                      |
+| -------------------------------------------------------------------------------------------- |
+| [Droid-ify](https://github.com/Iamlooker/Droid-ify) [!badge variant="info" text="Suggested"] |
+| [Neo-store](https://github.com/NeoApplications/Neo-Store)                                    |
+| [F-droid](https://f-droid.org/)                                                              |
 
 [!ref Link](https://f-droid.org/)
 
@@ -40,7 +41,7 @@ Enhanced, modified or open source projects for various utilities and entertainme
 - Re-freeze marked apps with one tap
 - Hide apps
 
-| Recommended apps                                    |
+| Recommended managers                                |
 | --------------------------------------------------- |
 | [Insular](https://secure-system.gitlab.io/Insular/) |
 | [Shelter](https://gitea.angry.im/PeterCxy/Shelter)  |
@@ -134,10 +135,12 @@ Services or softwares that are either compatible or have identical implementatio
 
 ==- AlternativeTo [!badge variant="info" text="Suggested"]
 
-AlternativeTo is a website that lists and sorts alternatives to web-based software, desktop computer software, and mobile apps based on various criteria such as number of likes, reviews from registered users, and so on.
+- Lists and sorts alternatives to web-based softwares, desktop & mobile apps
+- Filter results by platform, license and feature type
+- Displays community feedback for detailed analysis
 
 !!!success
-AlternativeTo is an **extremely** invaluable tool. It is strengthened by community suggestions. This in turn makes the information provided on the website very descriptive and up to date.
+AlternativeTo is an **extremely** invaluable tool. It is sourced and constantly reviewed by the community. This in turn makes the information provided on the website very descriptive and up to date.
 !!!
 
 [!ref Link](https://alternativeto.net/)
