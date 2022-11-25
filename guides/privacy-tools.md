@@ -21,7 +21,7 @@ Using private messaging services, including social media platforms without activ
 - [andOTP](https://github.com/andOTP/andOTP) [!badge variant="warning" text="Unmaintained"](https://forum.xda-developers.com/t/app-4-4-open-source-andotp-open-source-two-factor-authentication-for-android.3636993/post-87021655)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
 
-### :icon-circle-slash: Ad-blocking
+### <i class="fa-solid fa-ban fa-lg"></i> Ad-blocking
 
 +++ Android
 
@@ -46,14 +46,14 @@ Advertisements shown inside major social media apps are an exception to this fea
 
 +++
 
-### :icon-mail: Temporary email services
+### <i class="fa-regular fa-envelope fa-lg"></i> Temporary email services
 
 Use a disposable email address instead of your work or personal account when unsure about signing up on a new service. An added benefit of using throaway email addresses is that you avoid ending up in random news mail letter subscriptions & other such annoyances.
 
 - [Alt Address](https://altaddress.org/) [!badge variant="info" text="Suggested"]
 - [Guerilla Mail](https://www.guerrillamail.com/)
 
-### :icon-search: Search Engines
+### <i class="fa-solid fa-magnifying-glass fa-lg"></i> Search Engines
 
 ==- Searx [!badge variant="info" text="Suggested"]
 

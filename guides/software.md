@@ -127,7 +127,7 @@ Work in progress
 !!!
 +++
 
-## :icon-git-compare: Cross-platform
+## <i class="fa-solid fa-shuffle fa-lg"></i> Cross-platform
 
 Services or softwares that are either compatible or have identical implementations of projects by the same author or a group across all devices
 
@@ -149,7 +149,7 @@ AlternativeTo is an **extremely** invaluable tool. It is sourced and constantly 
 
 ## Other
 
-### :icon-note: Games meta resource
+### <i class="fa-solid fa-gamepad fa-lg"></i> Games meta resource
 
 ```
 aHR0cHM6Ly9yZW50cnkub3JnL3BnYW1lcy1tZWdhLXRocmVhZA==
