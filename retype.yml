@@ -44,3 +44,7 @@ search:
 integrations:
   googleAnalytics:
     id: G-MCZCBE4E9S
+
+include:
+  - "*.woff2"
+  - "*.ttf"

@@ -81,7 +81,7 @@ Relies on some non-free dependencies
 
 ==- Aniyomi [!badge variant="ghost" text="Anime"] [!badge variant="ghost" text="Manga"]
 
-- Unofficial fork of [Tachiyomi](/guides/software/#tachiyomi-badge-variant-info-text-manga)
+- Unofficial fork of [Tachiyomi](/guides/software/#tachiyomi-badge-variant-ghost-text-manga)
 - Adds anime streaming capabilities on top of original features
 
 !!!

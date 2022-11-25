@@ -30,7 +30,7 @@ aHR0cHM6Ly9naXRodWIuY29tLw==
 
 ===
 
-### :icon-light-bulb: Points to remember
+### <i class="fa-regular fa-lightbulb fa-lg"></i> Points to remember
 
 - Descriptions & information provided for each resource mentioned in this blog are not error-free
 - All **applications** (only) mentioned in this blog are open-source projects unless mentioned otherwise
