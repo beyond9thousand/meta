@@ -15,6 +15,7 @@ Enhanced, modified or open source projects for various utilities and entertainme
 ==- F-droid
 
 - Google play store alternative
+- Does **not** require sign-up
 - Main repository purely consists of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) apps
 - Multiple sources can be added and configured
 - In-depth detailing about apps that rely on non-free services
@@ -131,7 +132,7 @@ Work in progress
 
 Services or softwares that are either compatible or have identical implementations of projects by the same author or a group across all devices
 
-### :icon-package: Alternative software lookup
+### <i class="fa-solid fa-list fa-lg"></i> Alternative software lookup
 
 ==- AlternativeTo [!badge variant="info" text="Suggested"]
 
@@ -144,6 +145,14 @@ AlternativeTo is an **extremely** invaluable tool. It is sourced and constantly 
 !!!
 
 [!ref Link](https://alternativeto.net/)
+
+==- Open Source Alternative To
+
+- Lists open-source alternatives to proprietary software 
+- Daily-updated GitHub metrics
+- Easy form to submit new projects
+
+[!ref Link](https://www.opensourcealternative.to/)
 
 ===
 
