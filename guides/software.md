@@ -8,7 +8,9 @@ order: 98
 
 Enhanced, modified or open source projects for various utilities and entertainment services
 
-+++ Android
+!!!
+No resources will be hosted for Apple devices. They sport a [heavily locked-down ecosystem](https://gist.github.com/iosecure/357e724811fe04167332ef54e736670d)
+!!!
 
 ### :icon-apps: App store
 
@@ -114,19 +116,9 @@ Relies on some non-free dependencies
 
 ### :icon-stack: Modded apps
 
-!!!
-Refer to [converting code blocks](/guides/getting-started/#converting-code-blocks)
-!!!
-
 ```
 aHR0cHM6Ly9hcGtzYXBwcy5ub3Rpb24uc2l0ZS9hcGtzYXBwcy8wOTZlZjM4ZjQ1MjM0MmJhOTliNGUxNTA5YTQ0OTcyOT92PTk5NzAzNjBiNDQzNjQzNzg5YzMzM2JkMmM3MTgwMDA5
 ```
-
-+++ iOS
-!!!
-Work in progress
-!!!
-+++
 
 ## <i class="fa-solid fa-shuffle fa-lg"></i> Cross-platform
 
