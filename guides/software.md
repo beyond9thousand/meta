@@ -4,15 +4,9 @@ icon: package
 order: 98
 ---
 
-## :icon-device-mobile: Mobile apps
++++ Android
 
-Enhanced, modified or open source projects for various utilities and entertainment services
-
-!!!
-No resources will be hosted for Apple devices. They sport a [heavily locked-down ecosystem](https://gist.github.com/iosecure/357e724811fe04167332ef54e736670d)
-!!!
-
-### :icon-apps: App store
+### <i class="fa-solid fa-cart-arrow-down fa-lg"></i> App store
 
 ==- F-droid
 
@@ -32,7 +26,7 @@ No resources will be hosted for Apple devices. They sport a [heavily locked-down
 
 ===
 
-### :icon-workflow: Dual-apps
+### <i class="fa-regular fa-clone fa-lg"></i> Dual-apps
 
 ==- Managers
 
@@ -51,7 +45,7 @@ No resources will be hosted for Apple devices. They sport a [heavily locked-down
 
 ===
 
-### :icon-video: Streaming
+### <i class="fa-solid fa-photo-film fa-lg"></i> Streaming
 
 ==- ReVanced Manager [!badge variant="ghost" text="Youtube"] [!badge variant="info" text="Suggested"]
 
@@ -112,19 +106,36 @@ Relies on some non-free dependencies
 
 [!button size="s" text="Modified versions"](https://gitpop2.vercel.app/tachiyomiorg/tachiyomi)
 
+==- Kotatsu [!badge variant="ghost" text="Manga"]
+
+- Support for third-party CBZ archives
+- Tablet-optimized material design UI
+- Shikimori integration (manga tracking)
+- Password/fingerprint protect access to the app 
+
+[!ref Link](https://kotatsuapp.github.io/)
+
+!!!
+Relies on some non-free dependencies
+!!!
+
 ===
 
-### :icon-stack: Modded apps
++++ Windows
 
-```
-aHR0cHM6Ly9hcGtzYXBwcy5ub3Rpb24uc2l0ZS9hcGtzYXBwcy8wOTZlZjM4ZjQ1MjM0MmJhOTliNGUxNTA5YTQ0OTcyOT92PTk5NzAzNjBiNDQzNjQzNzg5YzMzM2JkMmM3MTgwMDA5
-```
+!!!
+Work in progress
+!!!
+
++++
 
 ## <i class="fa-solid fa-shuffle fa-lg"></i> Cross-platform
 
-Services or softwares that are either compatible or have identical implementations of projects by the same author or a group across all devices
+Services or softwares that are either compatible or have nearly identical implementations of projects by the same author, like-minded contributor(s) or a group across most devices
 
-### <i class="fa-solid fa-list fa-lg"></i> Alternative software lookup
+### <i class="fa-solid fa-magnifying-glass-arrow-right fa-lg"></i> Finding alternatives
+
+Use these tools to find alternatives to popular software that offer similar, if not better features
 
 ==- AlternativeTo [!badge variant="info" text="Suggested"]
 
@@ -140,28 +151,10 @@ AlternativeTo is an **extremely** invaluable tool. It is sourced and constantly 
 
 ==- Open Source Alternative To
 
-- Lists open-source alternatives to proprietary software 
+- Lists open-source alternatives to proprietary software
 - Daily-updated GitHub metrics
 - Easy form to submit new projects
 
 [!ref Link](https://www.opensourcealternative.to/)
 
 ===
-
-## Other
-
-### <i class="fa-solid fa-gamepad fa-lg"></i> Games meta resource
-
-```
-aHR0cHM6Ly9yZW50cnkub3JnL3BnYW1lcy1tZWdhLXRocmVhZA==
-```
-
-### :icon-star: All-purpose meta resource
-
-```
-aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL0ZSRUVNRURJQUhFQ0tZRUFIL3dpa2kvaW5kZXgv
-```
-
-### Miscellaneous
-
-- [Emoji List](https://unicode.org/emoji/charts/emoji-list.html)
